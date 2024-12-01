@@ -1,7 +1,7 @@
 [
-    { "lat": -7.025214, "long": 107.567485, "name": "Cube", "type": "cube" },
-    { "lat": -7.025250, "long": 107.567460, "name": "Capsule", "type": "capsule" },
-    { "lat": -7.025240, "long": 107.567498, "name": "Sphere", "type": "sphere" },
-    { "lat": -7.025225, "long": 107.567445, "name": "Cube", "type": "cube" },
-    { "lat": -7.025260, "long": 107.567470, "name": "Capsule", "type": "capsule" }
+  { "lat": 37.312036, "lon": 126.846007, "name": "Cube", "type": "cube" },
+  { "lat": 37.312030, "lon": 126.846010, "name": "Sphere", "type": "sphere" },
+  { "lat": 37.312040, "lon": 126.846000, "name": "Capsule", "type": "capsule" },
+  { "lat": 37.312035, "lon": 126.846005, "name": "Cube", "type": "cube" },
+  { "lat": 37.312033, "lon": 126.846008, "name": "Sphere", "type": "sphere" }
 ]
