@@ -1,7 +1,7 @@
 [
-  { "lat": -7.02418210000000, "lon": 107.56840860000000, "name": "Sign", "type": "sign" },
-  { "lat": -7.02413710000000, "lon": 107.56836360000000, "name": "Balloon", "type": "balloon" },
-  { "lat": -7.02421710000000, "lon": 107.56845660000000, "name": "People", "type": "people" },
-  { "lat": -7.02416710000000, "lon": 107.56843160000000, "name": "Sign", "type": "sign" },
-  { "lat": -7.02415710000000, "lon": 107.56838060000000, "name": "Balloon", "type": "balloon" }
+    { "lat": -7.025214, "long": 107.567485, "name": "Sign", "type": "sign" },
+    { "lat": -7.025250, "long": 107.567460, "name": "Balloon", "type": "balloon" },
+    { "lat": -7.025240, "long": 107.567498, "name": "People", "type": "people" },
+    { "lat": -7.025225, "long": 107.567445, "name": "Sign", "type": "sign" },
+    { "lat": -7.025260, "long": 107.567470, "name": "Balloon", "type": "balloon" }
 ]
