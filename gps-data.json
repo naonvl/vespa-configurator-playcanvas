@@ -1,7 +1,7 @@
 [
-  { "lat": 37.311972, "lon": 126.847760, "name": "Sign", "type": "sign" },
-  { "lat": 37.311982, "lon": 126.847750, "name": "Balloon", "type": "balloon" },
-  { "lat": 37.311962, "lon": 126.847730, "name": "People", "type": "people" },
-  { "lat": 37.311968, "lon": 126.847690, "name": "Sign", "type": "sign" },
-  { "lat": 37.311965, "lon": 126.847710, "name": "Balloon", "type": "balloon" }
+  { "lat": 37.31197238671532, "lon": 126.84770211810772, "name": "Sign", "type": "sign" },
+  { "lat": 37.31197283637033, "lon": 126.84775861810947, "name": "Balloon", "type": "balloon" },
+  { "lat": 37.31196783635527, "lon": 126.84769611810723, "name": "People", "type": "people" },
+  { "lat": 37.31197783673961, "lon": 126.84771211810723, "name": "Sign", "type": "sign" },
+  { "lat": 37.31196383673961, "lon": 126.84768111810723, "name": "Balloon", "type": "balloon" }
 ]
