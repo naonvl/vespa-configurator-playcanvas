@@ -3,30 +3,30 @@
     "lat": -7.02048287799072,
     "lon": 107.568676180176,
     "name": "Sign",
-    "type": "cube"
+    "type": "sign"
   },
   {
     "lat": -7.02048887799072,
     "lon": 107.568671180176,
     "name": "Balloon",
-    "type": "sphere"
+    "type": "balloon"
   },
   {
     "lat": -7.02048387799072,
     "lon": 107.568667180176,
     "name": "People",
-    "type": "sphere"
+    "type": "people"
   },
   {
     "lat": -7.02048187799072,
     "lon": 107.568678180176,
     "name": "Sign",
-    "type": "cube"
+    "type": "sign"
   },
   {
     "lat": -7.02048787799072,
     "lon": 107.568674180176,
     "name": "Balloon",
-    "type": "sphere"
+    "type": "balloon"
   }
 ]
